@@ -1,0 +1,10 @@
+
+** A PASTA BOOTSTRAP NÃO VAI PRECISAR SER COPIADA, POIS JÁ EXISTE UMA NO SISTEMA. ** 
+
+INSTRUÇÕES DE USO DOS TEMPLATES:
+
+- Crie uma pasta "empresa" no diretório "AppRH\src\main\resources\templates" do projeto;
+
+- Copie para a pasta "empresa" os 3 arquivos HTML: lista-empresa.html, form-empresa.html e update-empresa.html 
+
+- Aplique o Thymeleaf(busca os dados do Controller e configura os forms) nos locais do HTML que precisarem dos dados.
